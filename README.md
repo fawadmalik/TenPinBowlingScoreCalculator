@@ -14,7 +14,7 @@ BowlingScoreCalculator.jar
 
 Download and run it as follows:
 
-Use a string representing a "Valid" roll sequence like this: "10, 2, 0, 10, 7, 3, 2, 3, 4, 5, 1, 8, 9, 1, 10, 2, 4"
+Use a string representing a **"Valid"** roll sequence like this: "10, 2, 0, 10, 7, 3, 2, 3, 4, 5, 1, 8, 9, 1, 10, 2, 4"
 
 The program trims the extra spaces
 
